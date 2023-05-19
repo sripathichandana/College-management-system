@@ -55,9 +55,6 @@ Thanks !
 * Faculty userid  : Faculty id
 * Student Userid  : cource-sem-rollnumber (IT-1-1001)        
 
-## Demo
-
-https://user-images.githubusercontent.com/63580687/236466989-dc4c93f7-7f11-4bd6-9737-dbe43cbdfffd.mp4
 
 
 ## Screenshots
@@ -77,17 +74,4 @@ https://user-images.githubusercontent.com/63580687/236466989-dc4c93f7-7f11-4bd6-
 <img src="screenshots/personalchatting.png"/>
 <img src="screenshots/collagedetails.png"/>
 
-## About
-
-My name is [Ajaysinh Rathod](https://github.com/Ajaysinh1290). I'm studying Information Technology (2nd Year) in SOCET(Ahmedabad). Contact me for any improvement in this project.
-
-
-
-Email : ajaysinhrathod1290@gmail.com
-
-# Social Media Accounts
-[![Instagram](https://img.icons8.com/fluent/40/000000/instagram-new.png)](https://www.instagram.com/ll_ajayrathod_ll/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[![Facebook](https://img.icons8.com/fluent/40/000000/facebook-new.png)](https://www.facebook.com/ajaysinh.rathod.7927)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-[![Youtube](https://img.icons8.com/fluent/40/000000/youtube-play.png)](https://www.youtube.com/channel/UCbhGYVadJsZtJzHYMWLNRRQ)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-[![Twitter](https://img.icons8.com/fluent/40/000000/twitter.png)](https://twitter.com/Ajaysin34751867)
 
